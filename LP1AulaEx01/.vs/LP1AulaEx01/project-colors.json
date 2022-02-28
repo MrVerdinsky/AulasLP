@@ -40,7 +40,12 @@
       "ProjectGuid": "5c1702f8-3973-4211-a088-b35168958ef0",
       "DisplayName": "Ex12",
       "ColorIndex": 6
+    },
+    "a2edf162-9196-4d55-959d-0a424d3425b8": {
+      "ProjectGuid": "a2edf162-9196-4d55-959d-0a424d3425b8",
+      "DisplayName": "Ex13",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
