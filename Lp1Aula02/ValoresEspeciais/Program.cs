@@ -41,6 +41,26 @@ namespace ValoresEspeciais
             Console.WriteLine($"    Double Max Value is: {e2}");
             Console.WriteLine($"    Float Max Value is: {f2}");
             Console.WriteLine($"    Char Max Value is: {g2}");
+            Console.WriteLine("");
+
+            //Special Values Float
+            float minusInf = float.NegativeInfinity;
+            float maxInf = float.PositiveInfinity;
+            float notAN = float.NaN;
+            Console.WriteLine("Special Values Float:");
+            Console.WriteLine($"Float Negative Infinity: {minusInf}");
+            Console.WriteLine($"Float Positive Infinity {maxInf}");
+            Console.WriteLine($"Float Not a Number: {notAN}");
+            Console.WriteLine("");
+
+            //Special Values Double
+            double minusInfD = double.NegativeInfinity;
+            double maxInfD = double.PositiveInfinity;
+            double notAND = double.NaN;
+            Console.WriteLine("Special Values Double:");
+            Console.WriteLine($"Double Negative Infinity: {minusInfD}");
+            Console.WriteLine($"Double Positive Infinity {maxInfD}");
+            Console.WriteLine($"Double Not a Number: {notAND}");
         }
     }
 }
