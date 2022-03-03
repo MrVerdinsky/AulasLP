@@ -61,6 +61,31 @@ namespace ValoresEspeciais
             Console.WriteLine($"Double Negative Infinity: {minusInfD}");
             Console.WriteLine($"Double Positive Infinity {maxInfD}");
             Console.WriteLine($"Double Not a Number: {notAND}");
+            Console.WriteLine("");
+
+            //Overflow
+            int i = short.MaxValue;
+            Console.WriteLine("Overflow Int Type:");
+            Console.WriteLine($"i = {i} -> Short Max Value");
+            Console.WriteLine($"i + 1 = ?");
+            Console.WriteLine((short)(i + 1));
+            Console.WriteLine("Max Value becomes MinValue");
+            Console.WriteLine("");
+
+            double t = double.MaxValue;
+            double x = double.MaxValue;
+            Console.WriteLine("Overflow Real Type:");
+            Console.WriteLine($"t = {t} -> Double Max Value");
+            Console.WriteLine($"2 * t = ?");
+            Console.WriteLine((double)(2 * double.MaxValue));
+            Console.WriteLine("Max Value becomes PositiveInfinity in this case");
+            Console.WriteLine($"x = {x} ->Double Max Value");
+            Console.WriteLine($"x + 1 = ?");
+            Console.WriteLine((double)(x + 1));
+            Console.WriteLine("Value doesn't change");
+            Console.WriteLine("");
+
+
         }
     }
 }
