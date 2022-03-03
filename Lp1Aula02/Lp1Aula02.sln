@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "Valores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkynetPatternSwitch", "SkynetPatternSwitch\SkynetPatternSwitch.csproj", "{1F7A7E38-58A9-4EE5-9AFC-4D15513730EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.csproj", "{410DBEE2-C722-4CF2-806F-D0B062293FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1F7A7E38-58A9-4EE5-9AFC-4D15513730EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7A7E38-58A9-4EE5-9AFC-4D15513730EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7A7E38-58A9-4EE5-9AFC-4D15513730EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410DBEE2-C722-4CF2-806F-D0B062293FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410DBEE2-C722-4CF2-806F-D0B062293FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410DBEE2-C722-4CF2-806F-D0B062293FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410DBEE2-C722-4CF2-806F-D0B062293FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
