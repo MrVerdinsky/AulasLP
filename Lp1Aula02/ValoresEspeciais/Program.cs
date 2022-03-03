@@ -85,6 +85,17 @@ namespace ValoresEspeciais
             Console.WriteLine("Value doesn't change");
             Console.WriteLine("");
 
+            //Underflow
+            float f1, f3;
+            f1 = f3 = 100000.0f;
+            Console.WriteLine("Overflow:");
+            Console.WriteLine($"F1 = {f1}");
+            Console.WriteLine($"F3 = {f3}");
+            Console.WriteLine($"F3 + 0.000000001 = F1 ?");
+            Console.WriteLine(f1 == f3 + 0.000000001f);
+            Console.WriteLine("Value of f1 doesnt change due to imprecision of float type");
+            
+
 
         }
     }
