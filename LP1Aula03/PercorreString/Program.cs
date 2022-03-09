@@ -18,6 +18,7 @@ namespace PercorreString
                 string newString = " ";
                 char validChar = ' ';
 
+                //Cycle that asks the user for a string
                 while (!valueString)
                 {
                     Console.Write("Insert String: ");
@@ -26,6 +27,7 @@ namespace PercorreString
                     if(inputString == "exit") System.Environment.Exit(0);
                 }
 
+                //Cycle that asks the user for a char
                 while (!valueChar)
                 {
                     string inputChar;
@@ -37,6 +39,8 @@ namespace PercorreString
                     else valueChar = true; 
                 }
 
+                //Cycle that goes along the input string
+                //and removes all the chars equal to the chosen one
                 for (int i = 0; i < inputString.Length; i++)
                 {
                     
