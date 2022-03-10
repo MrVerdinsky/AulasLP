@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PercorreString", "PercorreS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBiDim", "ArrayBiDim\ArrayBiDim.csproj", "{08F4625F-4216-4EDC-937B-D10FF6885011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPCPerks", "NPCPerks\NPCPerks.csproj", "{E2B0E538-6AFD-4FB3-BE7F-646161964DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{08F4625F-4216-4EDC-937B-D10FF6885011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08F4625F-4216-4EDC-937B-D10FF6885011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F4625F-4216-4EDC-937B-D10FF6885011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B0E538-6AFD-4FB3-BE7F-646161964DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B0E538-6AFD-4FB3-BE7F-646161964DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B0E538-6AFD-4FB3-BE7F-646161964DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B0E538-6AFD-4FB3-BE7F-646161964DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
