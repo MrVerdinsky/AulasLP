@@ -1,0 +1,13 @@
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.exe
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.deps.json
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.runtimeconfig.json
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.runtimeconfig.dev.json
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.dll
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\bin\Debug\netcoreapp3.1\Ex02.pdb
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.csproj.AssemblyReference.cache
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.AssemblyInfoInputs.cache
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.AssemblyInfo.cs
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.dll
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.pdb
+C:\Users\MrVerdinsky\Desktop\LP_Aulas\AulasLP\GitEx\Git\Ex01\obj\Debug\netcoreapp3.1\Ex02.genruntimeconfig.cache
